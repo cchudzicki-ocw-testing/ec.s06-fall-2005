@@ -7,8 +7,8 @@ file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ec-s06-prototypes-to
 file_type: image/jpeg
 image_metadata:
   caption: "Student Alfinio Flores demonstrates\_his solar water disinfection product\
-    \ during an in-class [project review](pages/projects). (Photo courtesy of Alfinio\
-    \ Flores. Used with permission.)"
+    \ during an in-class [project review](/courses/ec-s06-prototypes-to-products-fall-2005/pages/projects).\
+    \ (Photo courtesy of Alfinio Flores. Used with permission.)"
   credit: Photo courtesy of Alfinio Flores. Used with permission.
   image-alt: Student showing a clear plastic bag with hose and nozzle.
 learning_resource_types: []
