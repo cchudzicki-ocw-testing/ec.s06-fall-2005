@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information regarding concept testing, design for
+  manufacturing, fund raising resources around MIT, and various links to external
+  resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -8,7 +11,7 @@ uid: 225bd3ae-c3f3-54e1-49c8-91a9e206586f
 
 The following resources are consulted during class lectures.
 
-[Lecture notes from _15.783J Product Design and Development_](/courses/15-783j-product-design-and-development-spring-2006/content/pages/lecture-notes)
+[Lecture notes from _15.783J Product Design and Development_](/courses/15-783j-product-design-and-development-spring-2006/pages/lecture-notes)
 
 Fundraising Resources Around MIT
 --------------------------------
